@@ -10,7 +10,7 @@ Use Figure 2 to know what to measure on your tube. Otherwise, hopefully the para
 | X_Count | 1-∞ | We don't suggest going above 10 |
 | Y_Count | 1-∞ | We don't suggest going above 20 |
 | GasketHeight | 2.4mm | You can go thinner, but in our tests this yielded the best grip on tubes without being too weak or strong |
-| HandleWidth | 10mm | Adjust to fit your hand, carabeener, belt, etc. |
+| HandleWidth | 10mm | Adjust to fit your hand, carabiner, belt, etc. |
 
 ## Figure 2
 ![Figure 2](https://github.com/RifeLab/3D-Printed-Tools/blob/main/Neverdrop_Tube-Holder/Images/Figure%202.png)
