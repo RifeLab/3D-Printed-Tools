@@ -9,8 +9,8 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'Bead Dispenser (FlipGate Version).step',
-/* time_stamp */ '2025-07-11T15:43:16-04:00',
+/* name */ 'Dispenser (FlipGate Version).step',
+/* time_stamp */ '2025-07-14T23:45:03-04:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.1',
@@ -15348,8 +15348,8 @@ SOLID_ANGLE_UNIT()
 #14761=SHAPE_REPRESENTATION('',(#8905),#14737);
 #14762=SHAPE_REPRESENTATION('',(#9229),#14738);
 #14763=PRODUCT_DEFINITION_CONTEXT('part definition',#14780,'design');
-#14764=PRODUCT_DEFINITION('Well Plate Filler v11',
-'Well Plate Filler v11 v5',#14769,#14763);
+#14764=PRODUCT_DEFINITION('Dispenser (FlipGate Version)',
+'Dispenser (FlipGate Version) v6',#14769,#14763);
 #14765=PRODUCT_DEFINITION('Well Plate Filler Main Body',
 'Well Plate Filler Main Body',#14770,#14763);
 #14766=PRODUCT_DEFINITION('Dropper Plate','Dropper Plate',#14771,#14763);
@@ -15360,8 +15360,8 @@ SOLID_ANGLE_UNIT()
 #14771=PRODUCT_DEFINITION_FORMATION('',$,#14784);
 #14772=PRODUCT_DEFINITION_FORMATION('',$,#14785);
 #14773=PRODUCT_DEFINITION_FORMATION('',$,#14786);
-#14774=PRODUCT_RELATED_PRODUCT_CATEGORY('Well Plate Filler v11 v5',
-'Well Plate Filler v11 v5',(#14782));
+#14774=PRODUCT_RELATED_PRODUCT_CATEGORY(
+'Dispenser (FlipGate Version) v6','Dispenser (FlipGate Version) v6',(#14782));
 #14775=PRODUCT_RELATED_PRODUCT_CATEGORY('Well Plate Filler Main Body',
 'Well Plate Filler Main Body',(#14783));
 #14776=PRODUCT_RELATED_PRODUCT_CATEGORY('Dropper Plate','Dropper Plate',
@@ -15373,7 +15373,8 @@ SOLID_ANGLE_UNIT()
 #14780=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #14781=PRODUCT_CONTEXT('part definition',#14780,'mechanical');
-#14782=PRODUCT('Well Plate Filler v11','Well Plate Filler v11 v5',$,(#14781));
+#14782=PRODUCT('Dispenser (FlipGate Version)',
+'Dispenser (FlipGate Version) v6',$,(#14781));
 #14783=PRODUCT('Well Plate Filler Main Body',
 'Well Plate Filler Main Body',$,(#14781));
 #14784=PRODUCT('Dropper Plate','Dropper Plate',$,(#14781));
