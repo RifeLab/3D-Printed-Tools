@@ -2,7 +2,7 @@
 
 You should only need to print the Main Body and Gate parts once. The Dropper Plate does adjust some when Particle Diameter is changed, but in our experience printing a single dropper plate with Particle_Diameter = 5mm works for most bead sizes. 
 
-##  Adjusting Hole Locations
+##  Adjusting Hole Locations (For advanced users)
 The location of the holes in the top and dropper plates can be adjusted using the **Well_Offset_X** and **Well_Offset_Y** parameters. To ensure you are placing the holes appropriately we highly recommend using the [Opentrons Labware Library](https://labware.opentrons.com/#/) which houses precise measurements of these parameters for many commonly used plate styles.
 
 **Well_Spacing** controls the width between the centerpoints of each well. In nearly all purchaseable plates and tube racks the X and Y spacing are equal and the measurements for either may be input to this setting manually to adjust as needed. See the [Opentrons Labware Library](https://labware.opentrons.com/#/) for precise measurements of your labware.
